@@ -64,4 +64,4 @@ public:
 		cout << "Vi4itanie vektora: x=" << v1x - v2x << " y=" << v1y - v2y << endl;
 	}
 };
-#endif#pragma once
+#endif

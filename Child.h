@@ -45,4 +45,4 @@ public:
 		cout << "Imformation o rebenke:" << endl << "Im9-" << name << endl << "Famili9-" << surname << endl << "Vozrast-" << age << endl;
 	}
 };
-#endif#pragma once
+#endif
